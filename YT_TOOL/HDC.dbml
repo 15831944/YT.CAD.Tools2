@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="HDC.SPEC" Class="HDCDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=192.168.0.253\SQLEXPRESS,1433;Initial Catalog=HDC.SPEC;User ID=abies;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="YT_CAD_TOOL.Properties.Settings" SettingsPropertyName="HDC_SPECConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.S_USER" Member="S_USER">
+    <Type Name="S_USER">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="COMPANY_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LoginID" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="LoginPW" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="IsUse" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Auth" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Company" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Department" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Position" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Office" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Fax" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Note" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

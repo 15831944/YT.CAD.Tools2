@@ -1,0 +1,833 @@
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Images.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csprojAssemblyReference.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\Interop.AutoCAD.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\Interop.AXDBLib.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.ResolveComReference.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U001.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U002.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U003.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U004.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.GenerateResource.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CoreCompileInputs.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CopyComplete
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.MenuPalette.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Properties.Resources.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Page_1_Tool.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Test.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Msgbox.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Room.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\oktysnwb.nj3.dll.config
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\oktysnwb.nj3.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\bin\Debug\oktysnwb.nj3.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\oktysnwb.nj3.dll.licenses
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\oktysnwb.nj3.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO\YT_TOOL\obj\Debug\oktysnwb.nj3.pdb
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\oktysnwb.nj3.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Images.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csprojAssemblyReference.cache
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\Interop.AutoCAD.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\Interop.AXDBLib.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.ResolveComReference.cache
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.MenuPalette.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Page_1_Tool.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Properties.Resources.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U001.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U002.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U003.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U004.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Msgbox.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Room.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Test.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.GenerateResource.cache
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CoreCompileInputs.cache
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CopyComplete
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U005.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\o1sihpzr.ag2.dll.config
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\o1sihpzr.ag2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\bin\Debug\o1sihpzr.ag2.pdb
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\o1sihpzr.ag2.dll.licenses
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\o1sihpzr.ag2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181022_CADAUTO\YT_TOOL\obj\Debug\o1sihpzr.ag2.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Images.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.csprojAssemblyReference.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\Interop.AutoCAD.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\Interop.AXDBLib.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.csproj.ResolveComReference.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.MenuPalette.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.Page_1_Tool.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.Properties.Resources.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.U005.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.U001.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.U002.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.U003.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.U004.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.U_Msgbox.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.U_Room.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.U_Test.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.csproj.GenerateResource.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.csproj.CoreCompileInputs.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\YT_TOOL.csproj.CopyComplete
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\nlvnmjkp.pzq.dll.config
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\nlvnmjkp.pzq.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\bin\Debug\nlvnmjkp.pzq.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\nlvnmjkp.pzq.dll.licenses
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\nlvnmjkp.pzq.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\CADAUTO(박사님)\YT_TOOL\obj\Debug\nlvnmjkp.pzq.pdb
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Images.v17.2.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.xml
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csprojAssemblyReference.cache
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\Interop.AutoCAD.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\Interop.AXDBLib.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.ResolveComReference.cache
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.MenuPalette.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Page_1_Tool.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Properties.Resources.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U005.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U001.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U002.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U003.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U004.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Msgbox.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Room.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Test.resources
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.GenerateResource.cache
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CoreCompileInputs.cache
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CopyComplete
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\nlvnmjkp.pzq.dll.config
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\nlvnmjkp.pzq.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\bin\Debug\nlvnmjkp.pzq.pdb
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\nlvnmjkp.pzq.dll.licenses
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\nlvnmjkp.pzq.dll
+\\yt-server-nas1\T 개발\10 프로젝트\12 진행\1808_APT SPEC 관리 시스템\99. 개인작업\이상익\181023_CADAUTO\YT_TOOL\obj\Debug\nlvnmjkp.pzq.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Images.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csprojAssemblyReference.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\Interop.AutoCAD.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\Interop.AXDBLib.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.ResolveComReference.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.MenuPalette.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Page_1_Tool.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Properties.Resources.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U005.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U001.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U002.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U003.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U004.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Msgbox.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Room.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Test.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.GenerateResource.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CoreCompileInputs.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CopyComplete
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_List.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\nlvnmjkp.pzq.dll.config
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\nlvnmjkp.pzq.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\bin\Debug\nlvnmjkp.pzq.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\nlvnmjkp.pzq.dll.licenses
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\nlvnmjkp.pzq.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181023_CADAUTO\YT_TOOL\obj\Debug\nlvnmjkp.pzq.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Images.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csprojAssemblyReference.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\Interop.AutoCAD.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\Interop.AXDBLib.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.ResolveComReference.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.MenuPalette.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Page_1_Tool.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Properties.Resources.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U005.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U001.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U002.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U003.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U004.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_List.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Msgbox.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Room.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Test.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.GenerateResource.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CoreCompileInputs.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CopyComplete
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Layer.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\YT_TOOL.dll.config
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\YT_TOOL.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\bin\Debug\YT_TOOL.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.dll.licenses
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181024_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Images.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\Interop.AutoCAD.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\Interop.AXDBLib.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.ResolveComReference.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.MenuPalette.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Page_1_Tool.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.Properties.Resources.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U005.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U001.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U002.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U003.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U004.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_List.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Msgbox.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Room.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Layer.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_Test.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.GenerateResource.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CoreCompileInputs.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.csproj.CopyComplete
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.U_LogIn.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\YT_TOOL.dll.config
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\YT_TOOL.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\bin\Debug\YT_TOOL.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.dll.licenses
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181026_CADAUTO\YT_TOOL\obj\Debug\YT_TOOL.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Images.v17.2.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Data.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\DevExpress.Office.v17.2.Core.xml
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\Interop.AutoCAD.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\Interop.AXDBLib.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_TOOL.csproj.ResolveComReference.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.MenuPalette.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.Page_1_Tool.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.Properties.Resources.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U005.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U001.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U002.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U003.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U004.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U_List.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U_Msgbox.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U_Room.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U_Layer.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U_LogIn.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.U_Test.resources
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_TOOL.csproj.GenerateResource.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_TOOL.csproj.CoreCompileInputs.cache
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_TOOL.csproj.CopyComplete
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\Aspose.CAD.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\YT_CAD_TOOL.dll.config
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\YT_CAD_TOOL.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\bin\Debug\YT_CAD_TOOL.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.dll.licenses
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.dll
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_CAD_TOOL.pdb
+E:\100 SangIk\100 Develop\100 CAD API\100 PROJECT\001 TEST\181029_CADAUTO_Tool 전용\YT_TOOL\obj\Debug\YT_TOOL.csprojAssemblyReference.cache
