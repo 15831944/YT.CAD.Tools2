@@ -52,6 +52,7 @@ namespace YT_CAD_TOOL
             DB = Doc.Database;
             DL = Doc.LockDocument(DocumentLockMode.ProtectedAutoWrite, null, null, true);
             Editor = Doc.Editor;
+
             //Doc.LockDocument(DocumentLockMode.ProtectedAutoWrite, null, null, true);
         }
 
